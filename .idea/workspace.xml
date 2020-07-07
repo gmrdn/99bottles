@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="793ec196-2036-45d9-b089-5174247aff3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="s1buv2s5" />
+  </component>
+  <component name="ProjectId" id="1eBkuholnO4YxFnnzHD0FR9ifLd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cargo fmt" />
+      <command value="cargo test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Cargo Command.test">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fmt" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="fmt" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cargo Command.fmt" />
+      <item itemvalue="Cargo Command.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.test" />
+        <item itemvalue="Cargo Command.fmt" />
+        <item itemvalue="Cargo Command.test" />
+        <item itemvalue="Cargo Command.fmt" />
+        <item itemvalue="Cargo Command.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="793ec196-2036-45d9-b089-5174247aff3c" name="Default Changelist" comment="" />
+      <created>1593802598244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593802598244</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594126335385">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="369" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1594126335385" />
+    <state x="100" y="123" width="1240" height="631" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593804380604">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="100" y="123" width="1240" height="631" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.831@0.23.1440.831" timestamp="1593804380604" />
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom" timestamp="1594152109991">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1594152109991" />
+    <state width="1398" height="210" key="GridCell.Tab.0.center" timestamp="1594152109990">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1594152109990" />
+    <state width="1398" height="210" key="GridCell.Tab.0.left" timestamp="1594152109990">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1594152109990" />
+    <state width="1398" height="210" key="GridCell.Tab.0.right" timestamp="1594152109990">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1594152109990" />
+    <state x="458" y="77" key="SettingsEditor" timestamp="1594126160578">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="458" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1594126160578" />
+    <state x="385" y="199" width="670" height="675" key="run.anything.popup" timestamp="1594127038290">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="385" y="199" width="670" height="675" key="run.anything.popup/0.23.1440.831@0.23.1440.831" timestamp="1594127038290" />
+    <state x="385" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1594110816156">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="385" y="178" width="670" height="676" key="search.everywhere.popup/0.23.1440.831@0.23.1440.831" timestamp="1594110816156" />
+  </component>
+</project>
